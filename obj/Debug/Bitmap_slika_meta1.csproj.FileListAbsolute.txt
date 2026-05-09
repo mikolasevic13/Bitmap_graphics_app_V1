@@ -1,0 +1,10 @@
+C:\Users\miko\source\repos\Bitmap_slika_meta1\bin\Debug\Bitmap_slika_meta1.exe.config
+C:\Users\miko\source\repos\Bitmap_slika_meta1\bin\Debug\Bitmap_slika_meta1.exe
+C:\Users\miko\source\repos\Bitmap_slika_meta1\bin\Debug\Bitmap_slika_meta1.pdb
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.csproj.AssemblyReference.cache
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.MainForm.resources
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.Properties.Resources.resources
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.csproj.GenerateResource.cache
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.csproj.CoreCompileInputs.cache
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.exe
+C:\Users\miko\source\repos\Bitmap_slika_meta1\obj\Debug\Bitmap_slika_meta1.pdb
